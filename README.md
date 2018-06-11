@@ -1,5 +1,4 @@
 # hello-wrold
-Just another repository
 
 Hello everyone, this is Kurshinx.
-I like to code in python!
+I am currently learning python through online resources, meetups and books. 
